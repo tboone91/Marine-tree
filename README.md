@@ -69,7 +69,7 @@ This dataset contains more than 160k annotated images divided into 60 classes or
 <br></br>
 
 <p align="center">
-  <img src="/deakin/figures/photoquadrat.png" width="550" title="hover text">
+  <img src="/deakin/figures/annotation_process.png" width="550" title="hover text">
   <figcaption style="text-align: center" >Fig.3 An example of one RLS diver photoquadrat used to build the dataset. The image is divided in a 5x5 grid in the cropping process and the cells with annotations are kept</figcaption>
 </p>
 
@@ -96,5 +96,13 @@ To acknowledge the use of the dataset in publications, please cite the following
 
 ## DETAILED DESCRIPTION OF THE DATA FILE
 
+This dataset consists of three files which contains:
 
-##
+* marine_images.zip : all images
+* 6 files with the format [train/test]_labels_[comp/temp/trop].csv which contains:
+  * fname (filename) for all images in marine_images.zip
+  * scheme8 label (from Squiddle+) for each level of taxonomy
+  * text label (e.g. "Biota") for each level of taxonomy
+  * class_level for each level of taxonomy
+
+
