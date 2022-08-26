@@ -91,7 +91,8 @@ The user may not use this information for any commercial or revenue-bearing purp
 
 To acknowledge the use of the dataset in publications, please cite the following paper:
 
-* Marine-tree: A large-scale hierarchically annotated dataset for marine organism classification, Sifuentes, Tanya Boone and Nazari, Asef and Razzak, Imran and Bouadjenek, Mohamed Reda and Robles-Kelly, Antonio and Ierodiaconou, Daniel and Oh, Elizabeth, (CIKM 2022).
+*  Tanya Boone Sifuentes, Asef Nazari, Imran Razzak, Mohamed Reda Bouadjenek, Antonio Robles-Kelly, Daniel Ierodiaconou, and Elizabeth Oh. [Marine-tree: large-scale marine organisms dataset for hierarchical image classification](https://rbouadjenek.github.io/papers/sp0760.pdf). Proceedings of the 31st ACM International Conference on Information and Knowledge Management, (CIKM), XXX-XXX, 2022.
+
 
 
 ## DETAILED DESCRIPTION OF THE DATA FILE
