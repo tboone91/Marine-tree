@@ -105,4 +105,11 @@ This dataset consists of three files which contains:
   * text label (e.g. "Biota") for each level of taxonomy
   * class_level for each level of taxonomy
 
+## HOW TO LOAD
+```python
+from deakin.edu.au.data import get_Marine_dataset
+
+dataset = get_Marine_dataset(output_level='all',image_size=(64, 64),subtype='Tropical',batch_size=128)
+
+```
 
