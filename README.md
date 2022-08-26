@@ -99,7 +99,7 @@ To acknowledge the use of the dataset in publications, please cite the following
 This dataset consists of three files which contains:
 
 * marine_images.zip : all images
-* 6 files with the format [train/test]_labels_[comp/temp/trop].csv which contains:
+* 6 files with the format <train/test>\_labels\_<comp/temp/trop>.csv which contains:
   * fname (filename) for all images in marine_images.zip
   * scheme8 label (from Squiddle+) for each level of taxonomy
   * text label (e.g. "Biota") for each level of taxonomy
