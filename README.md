@@ -96,7 +96,7 @@ To acknowledge the use of the dataset in publications, please cite the following
 
 ## DETAILED DESCRIPTION OF THE DATA FILE
 
-This dataset consists of three files which contains:
+This dataset consists of the following files:
 
 * marine_images.zip : all images
 * 6 files with the format <train/test>\_labels\_<comp/temp/trop>.csv which contains:
