@@ -2,7 +2,7 @@
 
 This dataset contains more than 160k annotated images divided into 60 classes organised in a hierarchy-tree structure (up to five levels depth). The images correspond to  benthic organisms and substrate from different locations around the world of subtidal and intertidal reef communities. The images were meticulously collected by scuba divers using the RLS (Reef Life Survey) methodology and later annotated by experts in the field. After this, according to the annotation, we cropped the individual object around the annotation point generating 161,185 crops. Additionally, this dataset can be used as two subsets (subdatasets) according to its climate: Tropical and Temperate. Please, see the following table for further details.
 
-<table>
+<table align="center">
 <thead>
   <tr>
     <th>Hierarchy level</th>
@@ -19,7 +19,7 @@ This dataset contains more than 160k annotated images divided into 60 classes or
     <td>161,185 Images</td>
   </tr>
   <tr>
-    <td colspan="3">Classes</td>
+    <td colspan="3",align="center">Classes</td>
   </tr>
   <tr>
     <td>$\ell_1$</td>
@@ -53,6 +53,27 @@ This dataset contains more than 160k annotated images divided into 60 classes or
   </tr>
 </tbody>
 </table>
+<br></br>
+<p align="center">
+  <img src="/deakin/figures/Fig1_marine.jpg" width="550" title="hover text">
+  <figcaption style="text-align: center" >Fig.1 Examples of images in Marine-tree (top) and a snapshot of one root-to-leaf branch (bottom) </figcaption>
+</p>
+
+<br></br>
+
+<p align="center">
+  <img src="/deakin/figures/world_map.png" width="550" title="hover text">
+  <figcaption style="text-align: center" >Fig.2 Location of RLS campaigns: Red dots represent approximate location which belongs to the countries in  blue. </figcaption>
+</p>
+
+<br></br>
+
+<p align="center">
+  <img src="/deakin/figures/photoquadrat.png" width="550" title="hover text">
+  <figcaption style="text-align: center" >Fig.3 An example of one RLS diver photoquadrat used to build the dataset. The image is divided in a 5x5 grid in the cropping process and the cells with annotations are kept</figcaption>
+</p>
+
+<br></br>
 
 Neither Deakin University nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 
