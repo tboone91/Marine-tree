@@ -91,7 +91,11 @@ The user may not use this information for any commercial or revenue-bearing purp
 
 To acknowledge the use of the dataset in publications, please cite the following paper:
 
-*  Tanya Boone Sifuentes, Asef Nazari, Imran Razzak, Mohamed Reda Bouadjenek, Antonio Robles-Kelly, Daniel Ierodiaconou, and Elizabeth Oh. [Marine-tree: large-scale marine organisms dataset for hierarchical image classification](https://rbouadjenek.github.io/papers/sp0760.pdf). Proceedings of the 31st ACM International Conference on Information and Knowledge Management, (CIKM), XXX-XXX, 2022.
+*  Tanya Boone Sifuentes, Asef Nazari, Imran Razzak, Mohamed Reda Bouadjenek, Antonio Robles-Kelly, Daniel Ierodiaconou, and Elizabeth Oh. [Marine-tree: large-scale marine organisms dataset for hierarchical image classification](https://rbouadjenek.github.io/papers/sp0760.pdf). Proceedings of the 31st ACM International Conference on Information and Knowledge Management, (CIKM), 3838–3842, 2022.
+
+* Tanya Boone-Sifuentes, Mohamed Reda Bouadjenek, Imran Razzak, Hakim Hacid, and Asef Nazari. [A Mask-based Output Layer for Multi-level Hierarchical Classification](https://rbouadjenek.github.io/papers/sp0060.pdf
+). Proceedings of the 31st ACM International Conference on Information and Knowledge Management, (CIKM), 3833-3837, 2022.
+
 
 ## HOW TO DOWNLOAD
 Marine-tree dataset is hosted in Google Drive and can be downloaded by clicking the following link: 
